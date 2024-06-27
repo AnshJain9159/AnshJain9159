@@ -4,13 +4,13 @@
 
 ### About Me <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />
 - 🧑🏻‍🎓CSE Undergrad at Maharaja Agrasen Institute Of Technology, Delhi
-- Basically a constantly learning Web Developer & a Problem Solver! 
+- 💻🌐 Basically a constantly learning Full Stack Web Developer & a Problem Solver! 
 - ✅ 400+ DSA Questions conquered
 ---
+<div>
 <a href="https://leetcode.com/Ansh_Jain_2004" target="_blank">
  <img align="right" src='https://leetcard.jacoblin.cool/Ansh_Jain_2004?hide=ranking&border=0&radius=21' width='310"'>
 </a>
-
 
 <p align="left">
   <a href="https://twitter.com/whoanshjain" target="_blank">
@@ -21,15 +21,6 @@
     <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727798-75572198-8764-4e7b-8a34-d772e51aa730.png">
   </a>
   &nbsp;
- 
-
-
- 
-  
-
-
-
-
 
   <a href="https://codeforces.com/profile/who.anshjain" target="_blank">
     <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/205476287-dee85e56-04b7-403c-8269-3455f052eb62.png">
@@ -44,14 +35,19 @@
     <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185728583-3b581a30-c79b-42b5-ac31-8f246fb7ba3a.png">
   </a>
 </p>
+</div>
 
+<br/>
+<br/>
 <a href="https://github.com/AnshJain9159/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AnshJain9159" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AnshJain9159&show_icons=true" />
 </a>
 <a href="https://github.com/AnshJain9159/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshJain9159&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-
+<br/>
+<p align='center'>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> How to reach me: <a href='mailto:anshjain9159@gmail.com'>anshjain9159@gmail.com</a>
+</p>
 
 
