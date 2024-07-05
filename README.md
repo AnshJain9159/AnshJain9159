@@ -13,15 +13,19 @@
 </a>
 
 <p align="left">
+  <h3>📫 How to reach me:</h3>
   <a href="https://twitter.com/whoanshjain" target="_blank">
-    <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727796-29c208f4-e6b3-403f-b7f6-94b7fa4a6b58.png">
+    <img height="35px" width="auto" src="https://img.icons8.com/color/48/000000/twitter.png">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/ansh-jain-78986b242/" target="_blank">
-    <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727798-75572198-8764-4e7b-8a34-d772e51aa730.png">
+    <img height="35px" width="auto" src="https://img.icons8.com/color/48/000000/linkedin.png">
   </a>
   &nbsp;
-
+ <a href="mailto:anshjain9159@gmail.com" target="_blank">
+ <img src="https://img.icons8.com/fluent/48/000000/gmail.png" height="35px" width="auto">
+</a>
+ &nbsp;
   <a href="https://codeforces.com/profile/who.anshjain" target="_blank">
     <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/205476287-dee85e56-04b7-403c-8269-3455f052eb62.png">
   </a>
@@ -34,11 +38,12 @@
 /profile" target="_blank">
     <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185728583-3b581a30-c79b-42b5-ac31-8f246fb7ba3a.png">
   </a>
+ 
 </p>
 </div>
 
 <br/>
-<br/>
+<hr/>
 <a href="https://github.com/AnshJain9159/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AnshJain9159&show_icons=true" />
 </a>
@@ -46,6 +51,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshJain9159&layout=compact&langs_count=8&card_width=320" />
 </a>
 <br/>
+<hr/>
 <p align='center'>
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> How to reach me: <a href='mailto:anshjain9159@gmail.com'>anshjain9159@gmail.com</a>
 </p>
