@@ -44,12 +44,14 @@
 
 <br/>
 <hr/>
+<h3>Github Stats &#128202;</h3>
 <a href="https://github.com/AnshJain9159/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AnshJain9159&show_icons=true" />
+  <img height=137 align="center" src="https://github-readme-stats.vercel.app/api?username=AnshJain9159&show_icons=true" />
 </a>
 <a href="https://github.com/AnshJain9159/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshJain9159&layout=compact&langs_count=8&card_width=320" />
+  <img height=137 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshJain9159&layout=compact&langs_count=8&card_width=320" />
 </a>
+
 <br/>
 <hr/>
 <p align='center'>
