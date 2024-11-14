@@ -4,8 +4,8 @@
 
 ### About Me <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />
 - 🧑🏻‍🎓CSE Undergrad at Maharaja Agrasen Institute Of Technology, Delhi
-- 💻🌐 Basically a constantly learning Full Stack Web Developer & a Problem Solver! 
-- ✅ 400+ DSA Questions conquered
+- 💻🌐 Full Stack Developer | DSA Enthusiast | Solidity & Blockchain Explorer 
+- ✅ 450+ DSA Questions conquered across platforms like Codeforces, LeetCode, and GeeksforGeeks
 ---
 <div>
 <a href="https://leetcode.com/Ansh_Jain_2004" target="_blank">
@@ -54,8 +54,9 @@
 
 <br/>
 <hr/>
+<p align='center'> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> Feel free to reach out: <a href='mailto:anshjain9159@gmail.com'>anshjain9159@gmail.com</a> </p>
 <p align='center'>
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> How to reach me: <a href='mailto:anshjain9159@gmail.com'>anshjain9159@gmail.com</a>
+ 
+[![Twitter: Ansh Jain](https://img.shields.io/twitter/follow/whoanshjain?style=social)](https://twitter.com/whoanshjain)
+[![Linkedin: Ansh Jain](https://img.shields.io/badge/-AnshJain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ansh-jain-78986b242/)](https://www.linkedin.com/in/ansh-jain-78986b242/)
 </p>
-
-
