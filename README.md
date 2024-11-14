@@ -44,13 +44,13 @@
 
 <br/>
 <hr/>
-<h3>Github Stats &#128202;</h3>
-<a href="https://github.com/AnshJain9159/github-readme-stats">
-  <img height=137 align="center" src="https://github-readme-stats.vercel.app/api?username=AnshJain9159&show_icons=true" />
-</a>
-<a href="https://github.com/AnshJain9159/convoychat">
-  <img height=137 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshJain9159&layout=compact&langs_count=8&card_width=320" />
-</a>
+
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+
+![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=AnshJain9159&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshJain9159&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnshJain9159&theme=highcontrast&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
 
 <br/>
 <hr/>
